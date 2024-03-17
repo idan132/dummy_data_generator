@@ -44,5 +44,5 @@ def create_neat_pdf(path):
     doc.build(Story)
 
 # Specify the path where you want to save the PDF
-output_path = './fake_health_records_neat.pdf'
+output_path = './fake_health_records.pdf'
 create_neat_pdf(output_path)

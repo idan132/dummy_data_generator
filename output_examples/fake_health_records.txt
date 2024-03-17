@@ -1,0 +1,80 @@
+Patient ID: 8c344a4f-4b94-4064-853c-3dd7117d94a9
+Name: Crystal Gomez
+DOB: 1953-06-05
+Gender: Male
+Diagnosis: Hypertension
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication B
+
+Patient ID: cd5a976e-dcc2-480d-8d9e-2abcb6e6dfda
+Name: Michael Weiss
+DOB: 1964-12-08
+Gender: Other
+Diagnosis: Diabetes
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication C
+
+Patient ID: 8f0f02d1-8c16-4853-93bd-32e673ba4106
+Name: Mr. James Thomas
+DOB: 1914-01-17
+Gender: Female
+Diagnosis: Flu
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication D
+
+Patient ID: 83fec05b-3a00-4f7f-897a-c09f3831c6ad
+Name: Steven Sanchez
+DOB: 1963-01-12
+Gender: Other
+Diagnosis: COVID-19
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication B
+
+Patient ID: 9262a9e7-48cc-4a46-b696-36b54094ceaa
+Name: Justin Holden
+DOB: 2015-05-30
+Gender: Male
+Diagnosis: Asthma
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication A
+
+Patient ID: 13b68d26-49a4-4aae-933d-b0ebe0158ee1
+Name: Daniel Walker
+DOB: 1975-01-18
+Gender: Other
+Diagnosis: COVID-19
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication A
+
+Patient ID: b215670d-d09e-4163-8d5b-192b775a1cc0
+Name: Robert Price
+DOB: 1938-10-31
+Gender: Male
+Diagnosis: Diabetes
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication B
+
+Patient ID: f8089d24-a2ac-4b80-b87e-7928b3f8241b
+Name: Donna Montes
+DOB: 1943-10-26
+Gender: Male
+Diagnosis: COVID-19
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication B
+
+Patient ID: a5bcf86b-f4ed-4930-8299-f1dc8c5ccd0a
+Name: Paul Mclaughlin
+DOB: 1994-07-13
+Gender: Male
+Diagnosis: Flu
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication B
+
+Patient ID: 7d612b56-1153-4dae-bc26-fe204a8af5bf
+Name: Michael Silva
+DOB: 2014-11-05
+Gender: Other
+Diagnosis: Hypertension
+Treatment: Treatment details for condition.
+Medication Prescribed: Medication B
+
