@@ -1,13 +1,13 @@
 ## Dependencies
 
-# CSV Script
+### CSV Script
 pip3 install pandas numpy faker
 
-# PDF Script
+### PDF Script
 pip3 install Faker
 pip3 install reportlab
 
-# TXT Script
+### TXT Script
 pip3 install Faker
 
 
